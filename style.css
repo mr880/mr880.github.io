@@ -1,0 +1,23 @@
+body{
+	width: 700px;
+	font-family:Arial;
+}
+#header{
+	padding: 20px;
+	background:orange;
+	border-color:2px solid grey;
+	color:white;
+	font-family:Georgia;
+}
+#giraffe{
+	padding: 10px;
+	top:50px;
+	background: white;
+	float: left;
+
+}
+#paragraphs{
+	background: #dddddd;
+
+
+}
